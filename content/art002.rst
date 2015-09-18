@@ -1,0 +1,43 @@
+¿Cómo está hecho el blog?
+#########################
+
+:date: 2015-07-28
+:tags: 
+:category: Pelican
+:authors: Carlos Rodríguez
+:summary: Github y Pelican para crear el blog
+
+Este blog está hecho con **Pelican** y está alojado en **Github Pages**. La
+principal razón es la de utilizar Software Libre, y documentar en 
+Restructuredtext (.rst). Aparte de las ventajas de usar software libre,
+el poder documentar el blog offline me ha animado a aprender Pelican y 
+usarlo.
+
+He creado un repositorio *fuente_web* que contiene los artículos en formato .rst
+
+El caso es que el contenido en .rst hay que transformarlo a .html y
+además hay que alojarlo en el repositorio de *GitHub* que hace de servidor web.
+Pues bien, además de crear el repositorio *es3a10.github.io* hay que pasar
+a las fuentes unos script de python que manden el contenido. 
+En un terminal y desde la carpeta donde tengamos el repositorio local *fuente_web* 
+tendremos que ejecutar los siguientes comandos: ::
+
+	$ pelican content -o output -s pelicanconf.py
+	$ ghp-import output
+	$ git push git@github.com:es3a10/es3a10.github.io.git gh-pages:master
+
+**NOTA:** En el caso de que en lugar de ser la página personal sea una página de proyecto,
+por ejemplo, el proyecto matemáticas, los comandos serían: ::
+
+	$ pelican ./fuente_web/content -o ./fuente_web/output -s ./fuente_web/pelicanconf.py
+	$ ghp-import ./fuente_web/output
+	$ git push origin gh-pages
+ 
+
+
+Otra cosa que hay que hacer, si no se ha hecho, crear una clave pública-privada para
+la conexión ssh al servidro *GitHub*. La clave RSA hay que meterla en los *settings*
+de nuestra cuenta *GitHub*.
+
+
+**NOTA:** Si ponemos fotos en una carpeta aparte, tendremos que copiar esa carpeta en la carpeta *./output*.

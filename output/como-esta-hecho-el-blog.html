@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+          <title>Bitácora Personaaaaaaaal</title>
+        <meta charset="utf-8" />
+
+
+
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Bitácora Personaaaaaaaal <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="/como-esta-hecho-el-blog.html" rel="bookmark"
+         title="Permalink to ¿Cómo está hecho el blog?">¿Cómo está hecho el blog?</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2015-07-28T00:00:00+02:00">
+      mar 28 julio 2015
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="/author/carlos-rodriguez.html">Carlos Rodríguez</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>Este blog está hecho con <strong>Pelican</strong> y está alojado en <strong>Github Pages</strong>. La
+principal razón es la de utilizar Software Libre, y documentar en
+Restructuredtext (.rst). Aparte de las ventajas de usar software libre,
+el poder documentar el blog offline me ha animado a aprender Pelican y
+usarlo.</p>
+<p>He creado un repositorio <em>fuente_web</em> que contiene los artículos en formato .rst</p>
+<p>El caso es que el contenido en .rst hay que transformarlo a .html y
+además hay que alojarlo en el repositorio de <em>GitHub</em> que hace de servidor web.
+Pues bien, además de crear el repositorio <em>es3a10.github.io</em> hay que pasar
+a las fuentes unos script de python que manden el contenido.
+En un terminal y desde la carpeta donde tengamos el repositorio local <em>fuente_web</em>
+tendremos que ejecutar los siguientes comandos:</p>
+<pre class="literal-block">
+$ pelican content -o output -s pelicanconf.py
+$ ghp-import output
+$ git push git&#64;github.com:es3a10/es3a10.github.io.git gh-pages:master
+</pre>
+<p><strong>NOTA:</strong> En el caso de que en lugar de ser la página personal sea una página de proyecto,
+por ejemplo, el proyecto matemáticas, los comandos serían:</p>
+<pre class="literal-block">
+$ pelican ./fuente_web/content -o ./fuente_web/output -s ./fuente_web/pelicanconf.py
+$ ghp-import ./fuente_web/output
+$ git push origin gh-pages
+</pre>
+<p>Otra cosa que hay que hacer, si no se ha hecho, crear una clave pública-privada para
+la conexión ssh al servidro <em>GitHub</em>. La clave RSA hay que meterla en los <em>settings</em>
+de nuestra cuenta <em>GitHub</em>.</p>
+<p><strong>NOTA:</strong> Si ponemos fotos en una carpeta aparte, tendremos que copiar esa carpeta en la carpeta <em>./output</em>.</p>
+
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
