@@ -10,7 +10,7 @@ S_P recuerda que pese a la incertidumbre motivada por si los cambios de gobierno
 
 #. Bienvenida oficial y ronda de presentación del equipo docente y directivo del instituto. Se pasa lista al profesorado en sentido horario según la ubicación respecto al director:
 
-    Carlos RodríguezCarmen Muñoz (Orientadora), Óscar Carpio (Matemáticas), Manuel Andrés (Sociales), Priska Etxegarai (PT), Sonía Freire (Matemáticas), Javier Belloso (Ed. Plástica), Diana de la Torre (Lengua), Pilar Ramos (Matemáticas), Loly Marmol (Inglés), Begoña Cerdán (Socieales), Raquel Vargas (Tecnología), Javier Álvarez (Educación Física), Sheila Zalaya (Inglés), Esther Villacastín (Ciencias Naturales), Ana Chueca (Inglés), Ángeles Cabido (Religión), Aroa Torre (Inglés), Laura López (Tecnología), Laura del Castillo (Lengua), Gotzone Agirrezabala (Euskera), Mª José (Física y Química), Marimar Laburu (Música), Cristina Cazón (Francés), S_G (Jefe de Estudios) y S_P (Director) 
+    Carlos Rodríguez (Matemáticas y nuevo secretario),Carmen Muñoz (Orientadora), Óscar Carpio (Matemáticas), Manuel Andrés (Sociales), Priska Etxegarai (PT), Sonía Freire (Matemáticas), Javier Belloso (Ed. Plástica), Diana de la Torre (Lengua), Pilar Ramos (Matemáticas), Loly Marmol (Inglés), Begoña Cerdán (Socieales), Raquel Vargas (Tecnología), Javier Álvarez (Educación Física), Sheila Zalaya (Inglés), Esther Villacastín (Ciencias Naturales), Ana Chueca (Inglés), Ángeles Cabido (Religión), Aroa Torre (Inglés), Laura López (Tecnología), Laura del Castillo (Lengua), Gotzone Agirrezabala (Euskera), Mª José (Física y Química), Marimar Laburu (Música), Cristina Cazón (Francés), S_G (Jefe de Estudios) y S_P (Director) 
 
 #. Aprobación, si procede, de las actas correspondientes a las sesiones del 29/06/2015 y que se pueden leer e imprimir desde la web.
 
@@ -38,21 +38,21 @@ S_P recuerda que pese a la incertidumbre motivada por si los cambios de gobierno
     
 #. Información del plan de mejora (PGA)
     Se repasan los diferentes aspectos que aparece en la PGA
-    - Resultados: evaluaciones externas e internas --> 3 meses se revisan
-    - Educación en valores --> No hay responsable y se incluye en convivencia
-    - Plan de convivencia --> P_R
-    - Plan de atención a la diversidad --> Orientadora (horas que se reparten de atención a la diversidad, etc.)
-    - Plan de acción tutorial --> Orientadora 
-    - Programa de aprendizaje de lenguas extranjeras: Sección Bilingüe en Inglés --> Se matricula 14 bi
-    - Plan de formación del centro --> Dirección, aunque se ofrece ceder las responsabilidad
-    - Plan anual del sistema de calidad NM SGC 2013 --> La idea es rebajar el sistema. Se cancela SMILE (Silvia y Óscar)
+    - Resultados: evaluaciones externas e internas: Se comenta que cada 3 meses se revisan los resultadors del centro.
+    - Educación en valores: No hay responsable y se incluyen dentro del plan en convivencia
+    - Plan de convivencia: La responsable es P_R
+    - Plan de atención a la diversidad: responsabilidad de Orientación
+    - Plan de acción tutorial: responsabilidad de Orientación 
+    - Programa de aprendizaje de lenguas extranjeras: Responsabilidad de la sección Bilingüe en Inglés, se comenta que se han  matriculado 14 alumnos nuevos para el programa bilingüe
+    - Plan de formación del centro: La asume Dirección, aunque se ofrece ceder las responsabilidad a quien esté interesado
+    - Plan anual del sistema de calidad NM SGC 2013: La idea es rebajar el sistema. Se comenta que se ha cancelado la licencia del programa SMILE (programa que resume los diferentes indicadores de calidad en forma de semáforos). Este año, la calidad la van a gestionar Silvia y Óscar
 
 #. Información de los planes específicos de centro
 
-    - Plan Mejora de la Lectura --> Siliva con ayuda del dpto de Lengua. La estructura del PML ha desaparecido y no se sabe en qué va a queda el PLEC
-    - Programa de Lectura en Parejas --> Desaparece como centro, a no ser que algún profesor quiera seguir con él (). Loly comenta que existe un plan de lectura en parejas en inglés.
-    - Plan de Nuevas Tecnologías --> Consolidar el mantenimiento. Migrar de Moodle a Google Drive.
-    - Plan de Mejora Medioambiental --> Se cierra por falta de responsable 
+    - Plan Mejora de la Lectura: Siliva con ayuda del dpto de Lengua. La estructura del Plan de Mejora de la Lectura (PML) ha desaparecido y no se sabe en qué va a queda el PLEC. Los profesores que lideraban el programa han vuelto a sus puestos docentes.
+    - Programa de Lectura en Parejas: Se recalca que desaparece como programa de centro, a no ser que algún profesor quiera seguir con él (las horas de innovación que el Departamento daba dejan de darse por la antiguedad del plan en el centro). Loly comenta que existe un plan de lectura en parejas en inglés.
+    - Plan de Nuevas Tecnologías: El nuevo responsable es C_R y comenta que tratará de consolidar el mantenimiento de las tecnologías del centro. También expresa su intención de migrar la documentación, en la medida de los posible, de Moodle a Google Drive.
+    - Plan de Mejora Medioambiental: Se cierra por falta de responsable 
 
 #. Información de Proyectos de Innovación que se desarrollarán en el Centro:
 Ninguno como centro, los dos a título personal.
@@ -63,25 +63,22 @@ Ninguno como centro, los dos a título personal.
 #. Información de responsabilidades para el curso 2015-2016
 
     - Coordinadores de área y tutores Javier, Pilar, Begoña, Silvia. No cobran más. Marimar, Laura, Pilar, Diana, Sheila, Aroa, Esther, Óscar, Gotzone
-    - Nuevas tecnologías --> CR
-    - Mejora de la Lectura --> Silvia
-    - Convivencia e igualdad --> Pilar
-    - Sección bilingüe --> Sheila
-    - Lectura en parejas --> Nadie
-    - Educación en valores --> Nadie
-    - Calidad --> Silva y Óscar
-    - Biblioteca y publicaciones
-    - Mejora Medioambiental --> Nadie
-    - Formación --> Santiago Gregorio
-    - Actividades extraescolares y complementarias --> Begoña
+    - Nuevas tecnologías: C_R
+    - Mejora de la Lectura: Silvia
+    - Convivencia e igualdad: Pilar
+    - Sección bilingüe: Sheila
+    - Lectura en parejas: Nadie
+    - Educación en valores: Nadie
+    - Calidad: Silva y Óscar
+    - Biblioteca y publicaciones: Silvia y Aroa
+    - Mejora Medioambiental: Nadie
+    - Formación: Santiago Gregorio
+    - Actividades extraescolares y complementarias: Begoña
     
 #. Comunicación del despliegue de carga lectiva del profesorado 2015-16
-
-    S_P comenta de dónde han salido las plantillas y horas de trabajo (lectivas, complementarias y de cómputo de mensual). En el apartado de la asignación de guardias se comentan aspectos sobre cómo repartir las guardias Esther que si las gestiona ED la asignación). S_G propone que la gestión la hagan los propios profesores implicados, y que si hubiera algún problema entonces sí que tendría que hacerla el equipo directivo. A_C comenta que los refuerzos de guardia de horarios a los que no corresponde la hora de guardia completa deberían implicar hacer la parte proporcional de guardias y no solo cuando no haya profesor de guardia disponible. S_G explica que como medida educativa se va aplicar la expulsión a un aula y hora determinada, en esos casos los alumnos expulsados deberán ser atendidos por profesorado de guardia por lo que en esa hora habrá 3 profesores de guardia. J_A aprovecha para recordar que los horarios actuales suponen la realización de 10 minutos de más cada día. S_G explica las cargas horarias de cada profesor.    
-
+S_P comenta de dónde han salido las plantillas y horas de trabajo (lectivas, complementarias y de cómputo de mensual). En el apartado de la asignación de guardias se comentan aspectos sobre cómo repartir las guardias Esther que si las gestiona ED la asignación). S_G propone que la gestión la hagan los propios profesores implicados, y que si hubiera algún problema entonces sí que tendría que hacerla el equipo directivo. A_C comenta que los refuerzos de guardia de horarios a los que no corresponde la hora de guardia completa deberían implicar hacer la parte proporcional de guardias y no solo cuando no haya profesor de guardia disponible. S_G explica que como medida educativa se va aplicar la expulsión a un aula y hora determinada, en esos casos los alumnos expulsados deberán ser atendidos por profesorado de guardia por lo que en esa hora habrá 3 profesores de guardia. J_A aprovecha para recordar que los horarios actuales suponen la realización de 10 minutos de más cada día. S_G explica las cargas horarias de cada profesor.    
 
 #. Información del Reglamento de Convivencia
-
 P_R explica que se ha ido publicando la última versión en 3 documentos. DOs sesiones (para todos) y otra para los nuevos (carné). Normas, Condutas contarias y medidas y Conductas grav. (practicamente refleja literalmente la legislación). Nadie se opene al reglamento de conv. (entrada en vigor este año)
 S_P solicitan feedback para ver su utilidad, porque implica mucho esfuerzo. Quedºan 6 puntos, expulsión y pérdida de extraescolares. 
 
