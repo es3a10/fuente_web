@@ -14,7 +14,7 @@ S_P recuerda que pese a la incertidumbre motivada por si los cambios de gobierno
 
 #. Aprobación, si procede, de las actas correspondientes a las sesiones del 29/06/2015 y que se pueden leer e imprimir desde la web.
 
-Se entrega, para su lectura y firma, el acta del último claustro.
+    Se entrega, para su lectura y firma, el acta del último claustro.
 
 #. Informaciones
 
