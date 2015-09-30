@@ -1,4 +1,4 @@
-maria pilar, P_R, madre de carlos, maria jesus, c_R, S_P, M_L, XXXX, aroa, ana_C, Sheila, 
+maria pilar, P_R, madre de carlos, maria jesus, c_R, S_P, M_L, Fernanda?, aroa, ana_C, Sheila, 
 
 Dado el carácter extraordinario del consejo, aparecen como nuevos asistentes Maria Jesús representante del ayuntamiento y Carlos Rodríguez como nuevo secretario del centro.
 
@@ -16,4 +16,3 @@ Sheila comenta que hay que agilizar la gestión del cobro porque los aviones no 
 
 
 S_P, cerrando la sesión pide confirmar la aprobación por tanto del viaje, y de que sea para un grupo reducido de alumnos de bilingüe. El consejo lo aprueba por unanimidad.
-
