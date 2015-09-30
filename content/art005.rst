@@ -1,0 +1,14 @@
+Insertar código latex en nuestros artículos .rst
+#################################################
+
+:date: 2015-09-29
+:tags: latex
+:category: Pelican
+:authors: Carlos Rodríguez
+:summary: Insertar código *latex* en un Pelican
+
+Existe la posibilidad de insertar código latex:
+
+	:math:`\frac{3}{2}`
+
+

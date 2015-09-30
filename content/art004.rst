@@ -3,7 +3,7 @@ Mapas de Google para imprimir en 3D
 
 :date: 2015-09-05
 :tags: 3D
-:category: Lyx
+:category: 3D
 :authors: Carlos Rodríguez
 :summary: Imprimir en 3D mapas
 

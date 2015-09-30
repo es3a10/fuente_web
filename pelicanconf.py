@@ -8,8 +8,8 @@ SITENAME = u'Bit\xe1cora Personaaaaaaaal'
 SITEURL = ''
 
 PATH = 'content'
-#THEME = "notmyidea"
-THEME = "simple"
+THEME = "notmyidea"
+#THEME = "simple"
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'es'
