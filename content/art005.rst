@@ -9,6 +9,4 @@ Insertar código latex en nuestros artículos .rst
 
 Existe la posibilidad de insertar código latex:
 
-	:math:`\frac{3}{2}`
-
-
+	:math:`\frac{3}{2}\cdot\sqrt{12}`
