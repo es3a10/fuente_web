@@ -11,9 +11,9 @@ Existe la posibilidad de insertar código latex:
 
 	:math:`\frac{3}{2}\cdot\sqrt{12}`
 
-
-	$ En realidad el código latex sería :math:`\frac{3}{2}\cdot\sqrt{12}`.
-
+```
+En realidad el código latex sería :math:`\frac{3}{2}\cdot\sqrt{12}`.
+```
 
 El renderizado que *Pelican* hace inicialmente del código latex no está muy logrado (cuando lo pasa a html). Si queremos mejores resultados podemos utilizar algún plugin:
 
