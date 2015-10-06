@@ -1,0 +1,14 @@
+#. Necesidades:
+	- Palets
+      - Pintura
+      - Herramientas --> Para quitar láminas, para lijar, para pintar
+      - Ruedas 
+      - Escuadras
+      - Alfombra verde
+	- Router
+    - Arduino 
+    	- Kit
+	- Robot BQ
+	- Raspberry Pi
+	- Lcd para impresora 3D
+    - Mino proyector
