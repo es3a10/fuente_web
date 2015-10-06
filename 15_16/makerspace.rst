@@ -1,14 +1,10 @@
 #. Necesidades:
-	- Palets
-      - Pintura
-      - Herramientas --> Para quitar láminas, para lijar, para pintar
-      - Ruedas 
-      - Escuadras
-      - Alfombra verde
+	- Palets:Pintura,Herramientas --> Para quitar láminas, para lijar, para pintar, aguja?, Ruedas, Escuadras, Alfombra verde          
 	- Router
-    - Arduino 
-    	- Kit
+	- Arduino (kit, servos y sensores)
 	- Robot BQ
 	- Raspberry Pi
 	- Lcd para impresora 3D
-    - Mino proyector
+	- Micro proyector      
+          
+

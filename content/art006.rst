@@ -1,0 +1,20 @@
+Qué vamos a hacer en el makespace
+#################################################
+
+:date: 2015-10-06
+:tags: Maker
+:category: Maker
+:authors: Carlos Rodríguez
+:summary: Inicio de proyecto Makespace Cortes
+
+Como suele ser costumbre, realizar todo a última hora no es una buena práctica y sin embargo la mayoría de las veces siempre termino así, dejando todo para el final. 
+
+El curso ya está empezado y de alguna manera tenemos que empezar el proyecto. A la espera de lo que mis compañeros puedan aportar al proyecto, y teniendo en cuenta que llevo un grupo de PMAR (programa de mejora del aprendizaje) la idea que llevo hacer es la siguiente:
+
+Elaborar un mobiliario móvil que, hasta que tengamos asignado un espacio físico real, permita dividir una estancia en dos ambientes --> separadores móviles
+
+El pensamiento computacional como abstracción de lenguaje natural y que tiene similitudes con la abstracción algebraica, para ello vamos a hacer el curso de sctratch que tenemos en la página código 21
+
+Introducción a la electrónica con Arduino
+
+Hábito de salud --> Robot?
