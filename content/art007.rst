@@ -16,7 +16,7 @@ Qué es un espacio Maker y cómo surge la iniciativa:
 Cortes, curso 2014-2015: El centro se propone como reto construir una Impresora 3D de bajo coste. Algo que parecía ciencia-ficción era posible de hacer gracias a la información disponible en Internet: proyecto REPRAP.
 La idea principal del proyecto REPRA era la construcción de impresoras auto-replicantes, es decir, que están construidas con piezas que hayan sido impresas por otras impresoras.
 
-.. image:: ./img/impresora_completa.JPG
+.. image:: ./img/impresora_completa.jpg
 	:width:	400 px
 	:alt:	'Impresora completa'
 	
