@@ -1,4 +1,4 @@
-Qué vamos a hacer en el makespace
+¿Qué vamos a hacer en el makespace?
 #################################################
 
 :date: 2015-10-06
@@ -11,10 +11,29 @@ Como suele ser costumbre, realizar todo a última hora no es una buena práctica
 
 El curso ya está empezado y de alguna manera tenemos que empezar el proyecto. A la espera de lo que mis compañeros puedan aportar al proyecto, y teniendo en cuenta que llevo un grupo de PMAR (programa de mejora del aprendizaje) la idea que llevo hacer es la siguiente:
 
-Elaborar un mobiliario móvil que, hasta que tengamos asignado un espacio físico real, permita dividir una estancia en dos ambientes --> separadores móviles
-
-El pensamiento computacional como abstracción de lenguaje natural y que tiene similitudes con la abstracción algebraica, para ello vamos a hacer el curso de sctratch que tenemos en la página código 21
-
-Introducción a la electrónica con Arduino
-
-Hábito de salud --> Robot?
+    - Elaborar un **mobiliario móvil** que, hasta que tengamos asignado un espacio físico real, permita dividir una estancia en dos ambientes a través de separadores móviles elaborados con palets. También con Palets podremos crear algún tipo de bancada que dé al espacio un toque "maker".
+    
+    - Fomentar el pensamiento computacional como forma de afrontar y resolver problemas o retos y que tiene similitudes con el algebra como forma de abstraer y resolver matemáticamente problemas de la vida real. Para ello vamos a hacer el curso de **sctratch** que tenemos en la página **código 21**: http://aprendecodigo21.educacion.navarra.es/
+    
+    - Introducción a la electrónica mediante proyectos con Arduino. El año pasado, en el proyecto de la impresora 3D descubrimos que para el modelado 3D existe una herramienta online muy sencilla e intuitiva: **Tinkercad** (https://www.tinkercad.com/). Autodesk, actual propietaria de Tinkercad, está detrás de un montón de aplicaciones online educativas y relacionadas con el mundo maker. La aplicación **123d Circuits** permite implementar proyectos con Arduino de forma virtual (https://123d.circuits.io/)
+    
+    - Aprovechando el Huerto Escolar, trabajaremos los hábitos de salud estudiando las virtudes de los productos de la huerta y ayudaremos mediante la **impresión 3D** a la elaboración de letreros y soportes para el huerto 
+    
+Por lo tanto he identificado las siguientes necesidades de material (para comprar o reciclar):
+   
+   - **Palets**:
+        - Pintura
+        - Herramientas --> Para quitar láminas, para lijar, para pintar, para desmontar, Ruedas, Escuadras, Alfombra verde, martillos, ... 
+        - Material de seguridad, gafas y guantes 
+        - Madera para letreros 
+   - **Router** --> Queremos llevar internet al *makespace*
+   - **Multimetro** --> Ley de Ohm llevada a la práctica, a la vez de que permite asegurarnos de que todo funciona
+   - **Arduinos**: 
+	   - kit 
+	   - servos y 
+	   - sensores
+   - **Robot BQ**: Al menos un robot para un montaje sencillo. Por ejemplo: http://diwo.bq.com/evolution-cc-by-sa-2/ y su programación para evitar obstáculos que viene aquí: http://diwo.bq.com/printbot-evolution-obstaculos/
+   - **Raspberry Pi** y tarjetas SD: Para montar ordenadores o proyectos dedicados. Otra forma de obtener ordenadores sería mediante el reciclaje. Pidiendo su donación a empresas de la zona (que igual también pueden donar palets)
+   - **Lcd para impresora 3D**: Echamos en falta que la impresora 3D pueda imprimir sin tener un ordenador dedicado
+   - **Micro proyector**: La difusión del conocimiento es la clave para que la comunidad *maker* crezca
+   - **¿Máquina de Coser?**: Todo *maker* debería saber coser -yo no sé, :-( -
