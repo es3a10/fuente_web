@@ -16,11 +16,11 @@ Qué es un espacio Maker y cómo surge la iniciativa:
 Cortes, curso 2014-2015: El centro se propone como reto construir una Impresora 3D de bajo coste. Algo que parecía ciencia-ficción era posible de hacer gracias a la información disponible en Internet: proyecto REPRAP.
 La idea principal del proyecto REPRA era la construcción de impresoras auto-replicantes, es decir, que están construidas con piezas que hayan sido impresas por otras impresoras.
 
-.. image:: ./img/moncayo_freecad.png
+.. image:: ./img/impresora_completa.JPG
 	:width:	400 px
-	:alt:	'moncayo_freecad'
+	:alt:	'Impresora completa'
 	
-	(Imagen de una medalla con el gato de Scratch impreso en 3D)
+	(Imagen de la impresora del centro)
 
 Pero al buscar información en Internet de estas impresoras 3D, vimos que existía detrás una comunidad extremadamente activa cuya principal motivación era la construcción de cosas para aprender. Se trata de una versión moderna de los antiguos aficionados al bricolaje e inventores caseros, pero basados en la tecnología y con la ventaja de utilizar Internet para difundir todo el conocimiento, y por tanto de hacerlo accesible. En EEUU, a este tipo de personas se les llamó makers y pronto aparecieron locales donde socializar, construir y compartir ideas: Fablab o Makespace son los nombres más comunes. Desde el centro vamos a construir un espacio de creación digital y no digital en el que se puedan desarrollar diferentes proyectos. Algunos de los retos planteados para este año son:
 
