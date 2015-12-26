@@ -9,11 +9,11 @@ Programas para modelar en 3D
 
 Aquí van una colección de programas para modelar en 3D
 
-	#. FreeCAD: Posiblemente el más completo y profesional
-	#. Blender: No lo he probado pero parece el más artístico
-	#. OpenScad: Modelado paramétrico
+	#. FreeCAD: Posiblemente el más completo y profesional (http://www.freecadweb.org)
+	#. Blender: No lo he probado pero parece el más artístico (https://www.einsteinsworkshop.com/outreach/blockscad)
+	#. OpenScad: Modelado paramétrico (http://www.openscad.org/)
 	#. BlocksCad: Interfaz limitada de OpenScad, con la ventaja de poder trabajar online
-	#. TinkerCad: Sencillo y online, ideal para llevarlo al aula (como el anterior)
-	#. OnShapes: Otro online, parece más profesional. No lo he probado
+	#. TinkerCad: Sencillo y online, ideal para llevarlo al aula -como el anterior- (https://www.tinkercad.com/)
+	#. OnShapes: Otro online, parece más profesional. No lo he probado (https://www.onshape.com/)
 
 
