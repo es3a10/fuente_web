@@ -16,14 +16,14 @@ La idea principal del proyecto *REPRAP* era la construcción de impresoras auto-
 
 Algunas fotos del año pasado:
 
-.. figure:: ./img/probando.jpg
+.. figure:: ./img/probando.JPG
 	:align: right
 	:width:	400 px
 	:alt:	'Probando la Impresora'
 	
 	(Probando la impresora)
 		   
-.. figure:: ./img/impresora_completa.JPG
+.. figure:: ./img/impresora_completa.jpg
 	:width:	400 px
 	:alt:	'Impresora completa'
 	
