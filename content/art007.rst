@@ -23,13 +23,13 @@ Algunas fotos del año pasado:
 	
 	(Probando la impresora)
 		   
-.. figure:: ./img/impresora_completa.jpg
+.. figure:: ./img/impresora_completa.JPG
 	:width:	400 px
 	:alt:	'Impresora completa'
 	
 	(La impresora completa)
 	
-.. figure:: ./img/construyendo.jpg
+.. figure:: ./img/construyendo.JPG
 	:width:	400 px
 	:alt:	'Construyendo sólidos'
 	

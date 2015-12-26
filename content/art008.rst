@@ -17,9 +17,3 @@ Aquí van una colección de programas para modelar en 3D
 	#. OnShapes: Otro online, parece más profesional. No lo he probado
 
 
-.. image:: ./img/impresora_completa.jpg
-	:width:	400 px
-	:alt:	'Impresora completa'
-	
-	(Imagen de la impresora del centro)
-
