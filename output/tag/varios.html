@@ -24,7 +24,39 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/programas-para-modelar-en-3d.html">Programas para modelar en 3D</a></h1>
+                    <h1 class="entry-title"><a href="/parametros-para-el-calculo-de-pasos-para-un-escornabot.html">Parámetros para el cálculo de pasos para un escornabot</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2016-10-28T00:00:00+02:00">
+                Published: vie 28 octubre 2016
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/carlos-rodriguez.html">Carlos Rodríguez</a>
+        </address>
+<p>In <a href="/category/maker.html">Maker</a>.</p>
+<p>tags: <a href="/tag/varios.html">Varios</a> </p>
+</footer><!-- /.post-info --><p>A la hora de calibrar un robot de dos ruedas siempre surge el tema de qué orden hay que darle al robot para que recorra cierta distancia o gire cierto número de grados.</p>
+<p>Para el recorrido recto influye el diámetro de la rueda que estemos usando, y en el giro la distancia entre las ruedas, que al final será el diámetro de la circunferencia que realice el robot mientras gira.</p>
+<p>Vamos a poner el ejemplo del escornabot (modelo placidus) que es el que he montado. Según datos teóricos, el número de pasos es de <strong>64</strong> por <strong>64</strong> de la reductora, por lo que da un total de 4096 pasos por vuelta (para el modelo de motor que tengo recomiendan poner <strong>4076</strong>).</p>
+<p>El diámetro de la rueda es de 72mm y la distancia entre ruedas es de 100mm.</p>
+<img alt="'handout'" src="./img/escornabot.jpg" style="width: 400px;" />
+<p>Con simples reglas de tres y que pi*diametro es una vuelta podemos determinar los pasos que tiene que dar nuestro robot:</p>
+<p>Pasos hacia para desplazarse:   Si 4076 es pix72, entonces 200 será x   Lo que da que x=3603 pasos
+Pasos para girar 90 grados:     Si 4076 es pix72, entonces (pix100)/4   Luego x=1415</p>
+                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/programas-para-modelar-en-3d.html" rel="bookmark"
+                           title="Permalink to Programas para modelar en 3D">Programas para modelar en 3D</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2015-12-22T00:00:00+01:00">
                 Published: mar 22 diciembre 2015
@@ -35,19 +67,13 @@
         </address>
 <p>In <a href="/category/maker.html">Maker</a>.</p>
 <p>tags: <a href="/tag/varios.html">Varios</a> </p>
-</footer><!-- /.post-info --><p>Aquí van una colección de programas para modelar en 3D</p>
-<blockquote>
-<ol class="arabic simple">
-<li>FreeCAD: Posiblemente el más completo y profesional</li>
-<li>Blender: No lo he probado pero parece el más artístico</li>
-<li>OpenScad: Modelado paramétrico</li>
-<li>BlocksCad: Interfaz limitada de OpenScad, con la ventaja de poder trabajar online</li>
-<li>TinkerCad: Sencillo y online, ideal para llevarlo al aula (como el anterior)</li>
-<li>OnShapes: Otro online, parece más profesional. No lo he probado</li>
-</ol>
-</blockquote>
-                </article>
-            </aside><!-- /#featured -->
+</footer><!-- /.post-info -->                <p class="first last">Programas para modelar en 3D</p>
+
+                <a class="readmore" href="/programas-para-modelar-en-3d.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+                </ol><!-- /#posts-list -->
+                </section><!-- /#content -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>blogroll</h2>
