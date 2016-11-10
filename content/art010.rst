@@ -1,0 +1,30 @@
+Recetas de cacharreo con la Raspberry Pi
+##########################################################
+
+:date: 2016-11-04
+:tags: Raspberry
+:category: Raspberry
+:authors: Carlos Rodríguez
+:summary: Recetas de cacharreo con la Raspberry Pi
+
+#. Configurar la raspberry como router
+
+    Como en casa el router que tengo no me da buena cobertura por todos los sitios, he decidido poner un repetidor en mitad de casa cuando necesite una mayor cobertura.
+    
+    He empezado por ponerlo como punto de acceso y para ello he seguido el tutorial de este enlace: 
+    
+    `Raspberry Pi como Punto de Acceso <http://www.redeszone.net/raspberry-pi/manual-para-configurar-raspberry-pi-como-un-router-wi-fi/>`_
+    
+    
+    De todas las tarjetas wifi usb que tengo por casa, la única que admite modo AP en una Dlink DWL-G22 con chipset Ralink RT2571W.
+    
+    Respecto a los pasos que pone que hay que seguir, he hecho todo igual salvo en la configuración */etc/network/interfaces*, que en lugar de poner *allow hotplug wlan0*, he tenido que poner *allow-hotplug wlan0*
+    
+#. Configurar sonic-pi en ubuntu
+
+    He tenido problema con el jack, la solución la he encontrado en:
+    
+    `ConfigurarSonicPi <https://www.miskatonic.org/2015/01/17/setting-up-sonic-pi-on-ubuntu/>`_
+    
+  
+    
