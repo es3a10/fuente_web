@@ -29,6 +29,7 @@ Recetas de cacharreo con la Raspberry Pi
     También hay que tener en cuenta que no arrancará sonic-pi a no ser que tengamos iniciado el jack.
     Para ello tenemos que arrancarlo desde el terminal ejecutando:*qjackctl* y dándole a *iniciar*.
     Si no nos funcionara, nos vamos a *setup* y seleccionamos interfaz: *hw:PCH,0*
+    Si al cerrar todo no tenemos acceso a los dispositivos de audio, desde la terminal: *pulseaudio*
     
   
     
