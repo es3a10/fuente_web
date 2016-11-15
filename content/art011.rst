@@ -1,0 +1,29 @@
+Robot controlado por Aplicación app inventor
+##########################################################
+
+:date: 2016-11-14
+:tags: Robots, Maker
+:category: Maker
+:authors: Carlos Rodríguez
+:summary: Robot controlado por Aplicación app inventor
+
+#. Hola Mundo para probar el módulo HC05
+  
+    He empezado siguiendo este enlace: 
+    
+    `Tutorial de arduino con bluetooth por kio4 <http://kio4.com/appinventor/9bluetootharduino.htm>`_
+    
+    **IMPORTANTE:** Un problema encontrado es que cuando quiero subir el programa arduino si tengo conectados los pines tx y rx al módulo bt falla, por eso cualquier modificación al programa arduino hay que hacerlo con el módulo quitado.
+    
+    En mi caso el módulo se llama HC051 y funciona a 57600 baudios, ya que en su día lo configuré así para que funcionará una extensión de Scratch en Python para programar Arduino desde Scratch con `S2A <https://github.com/MrYsLab/s2a_fm>`_
+    
+    Hice une módulo bt shield, éste va a 9600 baudios y se llama HC-05. Por último otro para zowi, que se llama zowi y va a 19200.
+
+
+    
+
+    La aplicación del móvil permite conectarse por Bluetooth al arduino y encender o apagar el led 13 pulsando los botones correspondientes
+    
+#. Del led a los motores
+    
+    Bueno, una vez probado el módulo Bluetooth estamos en disposición de programar el robot y la aplicación para su manejo desde el móvil ;-)
